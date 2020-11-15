@@ -67,11 +67,6 @@ a {
 
         &:active {
             color: #FF0000;
-
-            @media (max-width:768px) {
-                color: #FF0000;
-            }
-
         }
     }
          
