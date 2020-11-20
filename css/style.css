@@ -571,6 +571,7 @@ header {
 
 .main__content p {
   max-width: 880px;
+  font-size: 18px;
 }
 
 .title {
@@ -595,6 +596,7 @@ header {
   margin: 12px 0 0 0;
   font-size: 14px;
   line-height: 18px;
+  text-align: center;
 }
 
 .block-text a {
