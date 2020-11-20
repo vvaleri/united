@@ -561,7 +561,7 @@ header {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  margin: 0 0 60px 0;
+  margin: 0 0 84px 0;
   max-width: 380px;
   font-family: Open Sans Light, sans-serif;
   font-size: 48px;
@@ -570,7 +570,7 @@ header {
 }
 
 .main__content p {
-  max-width: 710px;
+  max-width: 880px;
 }
 
 .title {
@@ -603,11 +603,11 @@ header {
 }
 
 .about {
-  margin: 0 0 110px 0;
+  margin: 0 0 80px 0;
 }
 
 .about__content {
-  margin: 70px 0 0 0;
+  margin: 32px 0 0 0;
 }
 
 .about__item {
@@ -642,7 +642,7 @@ header {
 }
 
 .about__text {
-  margin: 30px 0 0 0;
+  margin: 11px 0 0 0;
 }
 
 .about__link {
@@ -653,11 +653,11 @@ header {
 }
 
 .services {
-  margin: 0 0 100px 0;
+  margin: 0 0 80px 0;
 }
 
 .services__text {
-  margin: 40px 0 80px 0;
+  margin: 30px 0 57px 0;
   line-height: 21px;
 }
 
@@ -698,7 +698,7 @@ header {
 }
 
 .services__btn button {
-  margin: 75px 0 0 0;
+  margin: 50px 0 0 0;
   padding: 18px 45px;
   max-width: 230px;
   font-size: 14px;
@@ -717,7 +717,7 @@ header {
 }
 
 .customers {
-  margin: 0 0 270px 0;
+  margin: 0 0 117px 0;
 }
 
 .customers__text {
@@ -726,12 +726,11 @@ header {
 }
 
 .customers__text p {
-  margin: 0 0 25px 0;
+  margin: 0 0 16px 0;
 }
 
 .customers__text p:last-child {
-  margin: 0 0 50px 0;
-  padding: 10px 20px 0;
+  margin: 0 0 25px 0;
   text-align: justify;
 }
 
@@ -748,20 +747,13 @@ header {
 }
 
 .customers__img {
-  margin: 0 10px 0 0;
+  margin: 0 35px 0 0;
 }
 
 .customers__img:last-child {
   margin: 0;
 }
 
-._right {
-  margin: 0 50px 0 0;
-}
-
-._right img {
-  padding: 0 0 0 20px;
-}
 
 .footer {
   background-color: #19263F;
