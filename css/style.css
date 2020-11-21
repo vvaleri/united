@@ -842,7 +842,7 @@ header {
 @media (min-width: 576px) {
   .container,
   .container-sm {
-    max-width: 680px;
+    max-width: 700px;
   }
 
   .col-sm {
@@ -2244,8 +2244,15 @@ header {
 }
 
 @media (max-width: 576px) {
+
+  .container {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
   .main__content h1 {
     font-size: 36px;
+    margin: 0 0 60px 0;
   }
 
   ._top {
@@ -2261,6 +2268,10 @@ header {
   .header__logo {
     width: 70%;
     margin: 0 0 0 50px;
+  }
+
+  .main {
+    margin: 0 0 110px 0;
   }
 
   .main__content h1 {
