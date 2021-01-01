@@ -1,15 +1,15 @@
 ## Тестовое задание на должность «HTML-верстальщик»
 
-https://vvaleri.github.io/united/
+[что получилось](https://vvaleri.github.io/united/)
 
 ##### Текст задания
 ***
 Нужно сверстать выданный макет страницы и разместить результат на github pages.
 
-Макет
-Макет в фигме — https://www.figma.com/file/D6Cn56BDGVMupa8i8y3Y4DQt/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-United-Traders?node-id=0%3A1
 
-JPG – https://drive.google.com/open?id=0B5h-vOY0zKQTQ1N6cnBCaTlvdkE
+[Макет](https://www.figma.com/file/D6Cn56BDGVMupa8i8y3Y4DQt/%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D0%BE%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-United-Traders?node-id=0%3A1)
+
+[JPG](https://drive.google.com/open?id=0B5h-vOY0zKQTQ1N6cnBCaTlvdkE)
 ### Требования ###
 - Шрифты и их толщина должны соответствовать тем, что указаны в макете. Основной шрифт - PT Sans, шрифт заголовка - Open Sans
 - Header и Footer сайта должны тянуться на всю ширину окна браузера, содержимое сайта должно умещаться в контейнер.
